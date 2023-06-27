@@ -1,6 +1,6 @@
-# Price Prediction with Linear Regression Model
+# Uber VS Lyft Price Prediction
 
-This repository contains code and resources for predicting prices using a linear regression model. The goal of this project is to demonstrate how a linear regression model can be implemented to forecast prices based on historical data.
+This repository contains code and resources for predicting prices between Uber and Lyft platform, using a linear regression model. The goal of this project is to demonstrate how a linear regression model can be implemented to forecast prices based on historical data.
 
 ## Table of Contents
 
